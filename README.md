@@ -1,7 +1,7 @@
-# Name
+# README-Generator
 ## Description
 
-  it work
+    When I use the command npm start there will be prompts that ask the user to fill in the preset skeleton built by me.
 
 ## Table of Contents
 
@@ -23,11 +23,11 @@
     
 ## Usage
     
-  [undefinied](undefined)
+  N/A
     
 ## Credits
     
-  me
+  N/A
     
 ## License
     
@@ -42,6 +42,5 @@
 ## Questions
 
   Contact me for any questions with the following:
-  - [Github](git)
-  - [mail]
-
+  - [Gabriel-V75169](https://github.com/Gabriel-V75169)
+  - [jrjr75169@gmail.com]
